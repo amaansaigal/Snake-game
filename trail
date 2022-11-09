@@ -1,0 +1,5 @@
+d =["a","b","c","d","e","f"]
+
+slice = d[2:5]
+index = d[2]
+print(f"tis is slice{slice} and tisis index {index}")
